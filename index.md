@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## KOLEJ VOKASIONAL KANGAR
 
 You can use the [editor on GitHub](https://github.com/faizal446/faizal446.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# SELAMAT DATANG KE WEBSITE KOLEJ VOKASIONAL KANGAR
 ## Header 2
 ### Header 3
 
